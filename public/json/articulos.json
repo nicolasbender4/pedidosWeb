@@ -1,0 +1,68 @@
+[
+    {
+        "INTERNOARTICULO":"14",
+        "IDARTICULO":"16",
+        "DESCRIPCION":"Loratadina 10 mg cm x 10 Savant Dexitis",
+        "Precio":"234,66"
+    },
+    {
+        "INTERNOARTICULO":"15",
+        "IDARTICULO":"17",
+        "DESCRIPCION":"Carvedilol 25 mg x 28 comp Nexo",
+        "Precio":"122,11"
+    },
+    {
+        "INTERNOARTICULO":"16",
+        "IDARTICULO":"18",
+        "DESCRIPCION":"Ampicilina 1000 mg cm 8 richet",
+        "Precio":"424,96"
+    },
+    {
+        "INTERNOARTICULO":"17",
+        "IDARTICULO":"19",
+        "DESCRIPCION":"Muelita Gel Forte x 10 gr",
+        "Precio":"234,66"
+    },
+    {
+        "INTERNOARTICULO":"18",
+        "IDARTICULO":"20",
+        "DESCRIPCION":"Vacuna antitetanica Biol  c/jeringa",
+        "Precio":"445,07"
+    },
+    {
+        "INTERNOARTICULO":"19",
+        "IDARTICULO":"22",
+        "DESCRIPCION":"Atorvastatin 20 mg comp x 10 Klonal",
+        "Precio":"512,21"
+    },
+    {
+        "INTERNOARTICULO":"20",
+        "IDARTICULO":"26",
+        "DESCRIPCION":"Corixa 250 comp. X 16",
+        "Precio":"534,44"
+    },
+    {
+        "INTERNOARTICULO":"21",
+        "IDARTICULO":"23",
+        "DESCRIPCION":"Callicida cabuchi solución x 8 g",
+        "Precio":"355,26"
+    },
+    {
+        "INTERNOARTICULO":"22",
+        "IDARTICULO":"36",
+        "DESCRIPCION":"Curinflam plus comp x 15",
+        "Precio":"1024,66"
+    },
+    {
+        "INTERNOARTICULO":"23",
+        "IDARTICULO":"37",
+        "DESCRIPCION":"Penicilina Benz 2,4 M fco amp Fabra",
+        "Precio":"442,09"
+    },
+    {
+        "INTERNOARTICULO":"24",
+        "IDARTICULO":"38",
+        "DESCRIPCION":"Femexin cm 21",
+        "Precio":"402,10"
+    }
+]
