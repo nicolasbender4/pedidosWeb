@@ -6,7 +6,7 @@ const ListaArticulos = () => {
   const[articulos,setArticulos] = useState([]);
 
   useEffect(() => {
-    fetch("json/articulos.json")
+    fetch("./json/articulos.json")
     .then(response => response.json())
     .then(datos => {
       setArticulos(datos)
